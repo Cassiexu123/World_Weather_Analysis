@@ -1,5 +1,5 @@
 City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
-1,Gorom-Gorom,BF,87.64,broken clouds,14.4439,-0.2361,Gorom-Gorom
+1,Gorom-Gorom,BF,87.64,broken clouds,14.4439,-0.2361,
 5,Worthington,US,86.05,light rain,40.0931,-83.018,Sheraton Suites Columbus Worthington
 7,Kapaa,US,75.52,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
 9,Sechelt,CA,77.45,overcast clouds,49.4664,-123.7694,The Driftwood Inn
@@ -72,14 +72,14 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 195,Alexandria,EG,81.14,clear sky,31.2156,29.9553,Royal Crown Hotel
 197,Tifton,US,89.29,scattered clouds,31.4505,-83.5085,Hilton Garden Inn Tifton
 207,Uusikaupunki,FI,77.52,overcast clouds,60.8004,21.4084,Hotel Aquarius
-209,Barra Patuca,HN,84.54,scattered clouds,15.8,-84.2833,Barra Patuca
-218,Gamba,GA,75.4,overcast clouds,-2.65,10.0,Foundou
+209,Barra Patuca,HN,84.54,scattered clouds,15.8,-84.2833,
+218,Gamba,GA,75.4,overcast clouds,-2.65,10.0,
 220,Ales,FR,83.1,few clouds,44.1333,4.0833,ibis Alès Centre-Ville
 221,Touros,BR,79.7,few clouds,-5.1989,-35.4608,INN NEW HORIZON
 227,Praya,CV,81.14,few clouds,14.9215,-23.5087,LT Aparthotel
-229,Susanville,US,85.08,clear sky,40.4163,-120.653,Red Lion Inn & Suites Susanville
+229,Susanville,US,85.08,clear sky,40.4163,-120.653,Comfort Inn & Suites Susanville
 230,Slonim,BY,78.26,scattered clouds,53.0867,25.3219,Hostel on Brestskaya 107
-238,Murgab,TM,85.87,clear sky,37.4966,61.9714,Mary
+238,Murgab,TM,85.87,clear sky,37.4966,61.9714,
 239,Male,MV,84.15,few clouds,4.1748,73.5089,Hotel Octave Maldives
 251,Ixtapa,MX,84.22,broken clouds,20.7,-105.2,Hotel Plaza Providencia
 252,Catamarca,AR,76.5,clear sky,-28.4696,-65.7852,Amerian Catamarca Park Hotel
@@ -88,10 +88,10 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 258,Libreville,GA,78.82,scattered clouds,0.3925,9.4537,Hotel Re-Ndama
 266,Ouro Preto,BR,75.2,clear sky,-20.3948,-43.5052,Hostel Goiabada com Queijo
 267,Teknaf,BD,78.1,broken clouds,20.8624,92.3058,Forestry Guesthouse
-273,Konevo,RU,78.71,clear sky,62.1215,39.3192,Konevo
+273,Konevo,RU,78.71,clear sky,62.1215,39.3192,
 275,Tafresh,IR,77.58,clear sky,34.692,50.013,هتل یاس سفید
 279,Honiara,SB,77.22,overcast clouds,-9.4333,159.95,Heritage Park Hotel
-285,Sapa,PH,80.91,overcast clouds,5.1544,120.3241,Sapa-Sapa
+285,Sapa,PH,80.91,overcast clouds,5.1544,120.3241,
 287,Mandal,IN,84.25,broken clouds,25.45,74.5667,पीपी वाले हनुमान जी
 292,Faya,SA,77.11,overcast clouds,18.3851,42.4509,مقبرة ال مجمل
 294,Hamilton,US,85.62,overcast clouds,39.1834,-84.5333,Six Acres Bed & Breakfast
@@ -101,11 +101,11 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 308,Walvis Bay,,77.95,clear sky,-22.9575,14.5053,Oyster Box Guesthouse
 314,Eyl,SO,77.74,scattered clouds,7.9803,49.8164,Amiin Hotel
 315,Lingao,CN,84.69,light rain,19.9103,109.6859,Lingao Ditai Inn
-317,Sobolevo,RU,76.33,scattered clouds,54.4299,31.8996,Sobolevo
+317,Sobolevo,RU,76.33,scattered clouds,54.4299,31.8996,
 320,Mana,GF,85.39,overcast clouds,5.6592,-53.7767,LE SAMANA
 321,Sylvania,US,80.74,overcast clouds,41.7189,-83.713,Wingate by Wyndham Sylvania/Toledo
 328,Mahon,ES,75.76,few clouds,39.8885,4.2658,ARTIEM Capri
-329,Brigantine,US,88.27,scattered clouds,39.4101,-74.3646,Legacy Vacation Resort Brigantine Beach
+329,Brigantine,US,88.27,scattered clouds,39.4101,-74.3646,Legacy Vacation Resorts Brigantine Beach
 330,Sarangani,PH,83.25,broken clouds,5.4033,125.4636,Ballistic Islet
 332,The Valley,AI,85.82,scattered clouds,18.217,-63.0578,CeBlue Villas & Beach Resort
 334,Jieshi,CN,83.95,overcast clouds,22.8134,115.8257,Yuehai Hotel
@@ -119,21 +119,21 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 364,Jakarta,ID,78.53,haze,-6.2146,106.8451,HARRIS Hotel Tebet
 365,Namatanai,PG,78.58,light rain,-3.6667,152.4333,Seagulls Inn Namatani
 376,Zhongxing,CN,76.51,light rain,33.7039,118.6792,New Century Grand Hotel Siyang
-380,Amapa,BR,83.14,broken clouds,1.0,-52.0,Teresinha
+380,Amapa,BR,83.14,broken clouds,1.0,-52.0,
 381,Vaitape,PF,79.14,few clouds,-16.5167,-151.75,Conrad Bora Bora Nui
 386,Ambon,ID,78.66,moderate rain,-3.6954,128.1814,Swiss-Belhotel Ambon
 388,Tubuala,PA,78.33,overcast clouds,9.5167,-79.0333,Río Nabagana
 389,Matara,LK,79.72,broken clouds,5.9485,80.5353,Amaloh Boutique Resort
 390,Olinda,BR,82.13,scattered clouds,-8.0089,-34.8553,Hotel Albergue de Olinda
 395,Kudahuvadhoo,MV,82.99,overcast clouds,2.6708,72.8944,Niyama Private Islands Maldives
-396,Estelle,US,87.78,broken clouds,29.8458,-90.1067,Ohio
+396,Estelle,US,87.78,broken clouds,29.8458,-90.1067,Boomtown Casino & Hotel New Orleans
 402,Ivanivka,UA,76.93,scattered clouds,46.7208,34.553,Спорт Лото
 410,Gambela,ET,77.02,overcast clouds,8.25,34.5833,Solomon Debebe Hotel
 415,Dongli,CN,76.98,light rain,23.5656,116.8194,Chenghai Shizhang Donghuaqiao Hostel
 416,Juba,SS,78.78,overcast clouds,4.8517,31.5825,ROYAL PALACE HOTEL - JUBA
 418,Prestea,GH,77.4,overcast clouds,5.4327,-2.1428,Channel 5
 422,Mangrol,IN,83.84,broken clouds,21.1167,70.1167,Hotel The Royal Honours
-426,Marzuq,YE,78.64,scattered clouds,14.4,46.4667,Al Hujayrah
+426,Marzuq,YE,78.64,scattered clouds,14.4,46.4667,
 430,Puerto Baquerizo Moreno,EC,76.19,broken clouds,-0.9,-89.6,Hotel los Algarrobos
 432,Tabas,IR,88.66,clear sky,33.5959,56.9244,شرکت معماری مهراز شایگان آراد
 434,Calafell,ES,86.23,few clouds,41.2,1.5683,Hotel Kursaal Calafell Playa
@@ -155,7 +155,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 469,Rauma,FI,78.84,overcast clouds,61.1272,21.5113,Kalliohovi Hotel
 470,Keti Bandar,PK,84.54,broken clouds,24.1447,67.4497,Haji laloo memon house
 473,Tambura,SS,75.2,broken clouds,5.6,27.4667,Rikito Lodge
-475,Avera,US,85.66,few clouds,33.194,-82.5271,Avera
+475,Avera,US,85.66,few clouds,33.194,-82.5271,
 479,Hargeysa,SO,75.51,light rain,9.56,44.065,City Center Hotel
 480,Kieta,PG,77.74,scattered clouds,-6.2167,155.6333,Uruna Bay Retreat
 481,Harper,LR,80.4,light rain,4.375,-7.7169,Screensaver
@@ -188,11 +188,11 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 552,Cam Ranh,VN,84.16,few clouds,11.9214,109.1591,OYO 598 Peony Hotel
 554,Beatrice,US,75.72,scattered clouds,40.2681,-96.747,Victorian Inn Beatrice
 555,Kindu,CD,76.19,light rain,-2.95,25.95,Résidence Okanda
-559,Abomsa,ET,82.27,clear sky,9.9833,39.9833,Debir
+559,Abomsa,ET,82.27,clear sky,9.9833,39.9833,
 560,Russell,US,84.11,broken clouds,32.3502,-85.1999,Macs
 561,Dana Point,US,83.73,broken clouds,33.467,-117.6981,Laguna Cliffs Marriott Resort & Spa
 564,Port Blair,IN,83.01,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
-570,Baherden,TM,84.63,clear sky,38.4362,57.4316,Baharly
+570,Baherden,TM,84.63,clear sky,38.4362,57.4316,
 575,Annau,TM,87.3,clear sky,37.8876,58.516,Buzmein Sokak
 578,Auki,SB,76.68,scattered clouds,-8.7676,160.7034,Auki Motel
 581,Guerrero,MX,79.07,scattered clouds,17.6667,-100.0,Villaxochilt
@@ -217,7 +217,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 623,Ajdabiya,LY,80.71,clear sky,30.7554,20.2263,Almadina Hotel
 624,Zagan,PL,84.69,overcast clouds,51.6176,15.3149,Hotel Okatex
 632,Bonthe,SL,77.09,moderate rain,7.5264,-12.505,Bonthe Holiday Village
-634,Sinaloa,MX,88.11,scattered clouds,25.0,-107.5,Los Pochotes
+634,Sinaloa,MX,88.11,scattered clouds,25.0,-107.5,
 635,Musenita,RO,79.47,broken clouds,47.9667,26.0,Truck Non-Stop
 639,Zhoucun,CN,78.57,light rain,36.8167,117.8167,Zibo Changxin Hotel
 641,Sai Buri,TH,78.28,broken clouds,6.7013,101.6168,ร้าน​ เวดดิ้ง
@@ -235,7 +235,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 668,Kloulklubed,PW,75.7,scattered clouds,7.0419,134.2556,Storyboard Beach Resort
 670,Shetpe,KZ,89.96,clear sky,44.1667,52.1167,Rtsm Shetpe Analog
 671,Jevargi,IN,84.42,overcast clouds,17.0167,76.7667,Apna Ghar
-672,Aloleng,PH,82.76,overcast clouds,16.1307,119.7824,Agno Umbrella Rocks
+672,Aloleng,PH,82.76,overcast clouds,16.1307,119.7824,Steve Walden and Emma Sison-Walden Residence
 679,Yarada,IN,86.32,haze,17.65,83.2667,Jeevan
 682,Zelenets,RU,82.65,overcast clouds,61.8849,50.7489,Zelenetskii Alps Ski Base
 687,Guozhen,CN,75.06,clear sky,34.3659,107.359,Yucai Hotel
