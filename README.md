@@ -19,6 +19,16 @@ Create a Pandas DataFrame with 500 or more of the world's unique cities and thei
 - Collect the data
 - Exploratory analysis with visualization
 - Visualize travel data
+### Resources
+- Data source:
+  WeatherPy_Database.csv
+  WeatherPy_Vacation.csv
+- Software:
+  Python 3.6.1
+  Jupyter Notebook
+  Pandas,Citipy, Scipy, requests,gmaps, and numpy library and dependencies
+  OpenWeather and Google Maps APIs
+  
 
 ### Challenge 
 The purpose of this project was to build on the existing Weather/Vacation app that allowed users to search the weather data at suggested vacation spots based on the temperature inputs from the user. The following steps are the updates that we need to improve the app:
