@@ -40,4 +40,5 @@ The purpose of this project was to build on the existing Weather/Vacation app th
 
 ### Result
 ![](Vacation_Search/WeatherPy_vacation_map.png)
-![](Vacation_Itinerary/WeatherPy_travel_map.png)
+
+![](Vacation_Itinerary/WeatherPy_travel_map.PNG)
